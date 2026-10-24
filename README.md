@@ -2,6 +2,12 @@
 
 Chat en bestanden delen op je eigen netwerk (LAN) - zonder internet, zonder cloud. Onderdeel van de Dravenlock-reeks.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveLink](https://dravenlock.nl/video/DraveLink.jpg)](https://dravenlock.nl/video/DraveLink.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveLink.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.6.1*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
